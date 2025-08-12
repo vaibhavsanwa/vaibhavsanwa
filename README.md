@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pentestfunctions/pentestfunctions/blob/main/binia.PNG">
+  <img src="https://github.com/vaibhavsanwa/vaibhavsanwa/blob/main/banner.jpg">
 </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/pentestfunctions/count.svg">
