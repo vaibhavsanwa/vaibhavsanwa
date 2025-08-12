@@ -115,6 +115,6 @@ journey
 
 ### 📈 GitHub Stats
 
-![pentestfunctions' GitHub Stats](https://github-readme-stats.vercel.app/api?username=pentestfunctions&show_icons=true&theme=radical)
+![vaibhavsanwa's Stats](https://github-readme-stats.vercel.app/api?username=vaibhavsanwa&theme=maroongold&show_icons=true&hide_border=true&count_private=true)
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
