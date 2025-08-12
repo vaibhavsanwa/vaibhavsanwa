@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://github.com/vaibhavsanwa/vaibhavsanwa/blob/main/banner.jpg">
 </p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pentestfunctions/count.svg">
-</p>
+
+## Ethical Hacker | Penetration Tester | Security Researcher
+
+- [Current project](https://youtube.com/logout?continue=https://googleads.g.doubleclick.net/pcs/click?adurl=https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Welcome to my GitHub! I'm passionate about application security, penetration testing, and continuous learning in the ever-evolving world of cybersecurity.
 
@@ -14,31 +15,21 @@ Welcome to my GitHub! I'm passionate about application security, penetration tes
 - 📫 Reach Me At: [LinkedIn - Vaibhav Sanwa](https://linkedin.com/in/vaibhav-sanwa) | [Twitter - @n00bh4cker](https://x.com/n00bh4cker)
 - ⚡ Fun Fact: I've identified 200+ critical vulnerabilities and helped prevent $2M+ in potential security incidents. Breaking things (ethically) is my passion!
 
-## Featured Projects
+### 🤖 Projects I want you to see
 
-- **Cloud Security Assessment Automation:**
-[AWS Security Automation](https://github.com/vaibhavsanwa/cloud-security-automation)
+- **WSL Seamless mode:** [WSL-Seamless](https://github.com/pentestfunctions/WSL-Seamless)
+- **OSINT Master Tool:** [OSINT Automation Test](https://github.com/pentestfunctions/OSINT-MasterTool)
+- **Konsole QuickCommands:** [Konsole Quick Commands](https://github.com/pentestfunctions/konsole-quickcommands)
+- **Paramfinder** [Param Finder](https://github.com/pentestfunctions/paramfinder)
+- **Hackerhelp** [Hacker help](https://github.com/pentestfunctions/hackerhelp)
+- **Permissioncheck** [Quickly Check Permissions](https://github.com/pentestfunctions/permissioncheck)
+- **Get IPs from Telegram** [Telgram IP Grabber](https://github.com/pentestfunctions/telegram-get-remote-ip)
+- **QuickCommands for Windows** [Windows Quick Commands](https://github.com/pentestfunctions/Windows-Terminal-Upgrade)
 
-- **Vulnerability Management Dashboard:**
-[Vuln Management Dashboard](https://github.com/vaibhavsanwa/vuln-dashboard)
-
-- **Custom Security Testing Scripts:**
-[Security Testing Scripts](https://github.com/vaibhavsanwa/security-scripts)
-
-- **API Security Testing Framework:**
-[API Security Framework](https://github.com/vaibhavsanwa/api-security-framework)
-
-- **Web App Penetration Testing Tools:**
-[Web App Pentest Tools](https://github.com/vaibhavsanwa/webapp-pentest-tools)
-
-- **Authentication Bypass Techniques:**
-[Auth Bypass Collection](https://github.com/vaibhavsanwa/auth-bypass-techniques)
-
-- **OWASP Testing Automation:**
-[OWASP Automated Testing](https://github.com/vaibhavsanwa/owasp-automation)
-
-- **Security Training Materials:**
-[Security Training Resources](https://github.com/vaibhavsanwa/security-training)
+  
+---
+Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. 
+---
 
 ```mermaid
 journey
@@ -52,68 +43,6 @@ journey
     section Go home
         Document findings: 5: Me
         Study for OSCP: 4: Me
-```
-
-## Essential Resources
-
-- **Security Testing:**
-[OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
-
-- **Penetration Testing:**
-[PortSwigger Web Security Academy](https://portswigger.net/web-security)
-
-- **Security Techniques:**
-[HackTricks](https://book.hacktricks.xyz/)
-
-
-
-<p align="center">
-  <img src="https://github.com/pentestfunctions/pentestfunctions/blob/main/binia.PNG">
-</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pentestfunctions/count.svg">
-</p>
-
-## Ethical Hacker | Penetration Tester | Security Researcher
-
-- [Current project](https://youtube.com/logout?continue=https://googleads.g.doubleclick.net/pcs/click?adurl=https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
-
-- 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
-- 🌱 **Learning:** Rust and advanced penetration testing techniques.
-- 👯 **Collaborating:** Open to all kinds of penetration testing projects.
-- 💬 **Ask Me About:** Anything related to hacking, penetration testing, or cybersecurity.
-- 📫 **Reach Me At:** [Discord - HackNexus](https://discord.gg/hacknexus)
-- ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
-
-### 🤖 Projects I want you to see
-
-- **WSL Seamless mode:** [WSL-Seamless](https://github.com/pentestfunctions/WSL-Seamless)
-- **OSINT Master Tool:** [OSINT Automation Test](https://github.com/pentestfunctions/OSINT-MasterTool)
-- **Konsole QuickCommands:** [Konsole Quick Commands](https://github.com/pentestfunctions/konsole-quickcommands)
-- **Paramfinder** [Param Finder](https://github.com/pentestfunctions/paramfinder)
-- **Hackerhelp** [Hacker help](https://github.com/pentestfunctions/hackerhelp)
-- **Permissioncheck** [Quickly Check Permissions](https://github.com/pentestfunctions/permissioncheck)
-- **Get IPs from Telegram** [Telgram IP Grabber](https://github.com/pentestfunctions/telegram-get-remote-ip)
-- **QuickCommands for Windows** [Windows Quick Commands](https://github.com/pentestfunctions/Windows-Terminal-Upgrade)
-  
----
-Yes I like to use ChatGPT to assist, optimize and prototype ideas and code. 
----
-
-```mermaid
-  journey
-    title My working day
-    section Go to work
-      Get redbull: 5: Me
-      Go upstairs: 5: Me
-      Do work: 5: Me
-      Do work when com joins: 1: Me, Comkids
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 4: Me
-
 ```
 
 ### Languages and Tools:
